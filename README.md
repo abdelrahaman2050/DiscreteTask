@@ -1,1 +1,1 @@
-# DiscreteProject
+# DiscreteTask
