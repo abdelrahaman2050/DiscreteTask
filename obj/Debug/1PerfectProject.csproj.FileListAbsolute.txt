@@ -1,0 +1,8 @@
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\bin\Debug\1PerfectProject.exe.config
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\bin\Debug\1PerfectProject.exe
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\bin\Debug\1PerfectProject.pdb
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\obj\Debug\1PerfectProject.csproj.AssemblyReference.cache
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\obj\Debug\1PerfectProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\obj\Debug\1PerfectProject.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\obj\Debug\1PerfectProject.exe
+C:\Users\abdelrahman\source\repos\1PerfectProject\1PerfectProject\obj\Debug\1PerfectProject.pdb
